@@ -43,6 +43,7 @@
 ### My Answer. Through trading, knowledge transfers, & political reasons etc. Honestly, I don't have much deeper historical knowledge of this.
 
 ### Refined Answer. My initial understanding is that Indian mathematical knowledge reached the Islamic scholarly world through processes such as trade, scholarly exchange, translation and political/intellectual contacts, and was subsequently transmitted into Europe through scholars and intellectual networks. I don't yet have enough historical knowledge to explain the specific routes, individuals and texts in detail, so I would need to study the transmission history more deeply.
+
 ---
 
 ## What is the historically defensible relationship between religious belief and scientific progress ?
@@ -59,11 +60,15 @@
 
 ### Refined Answer. We should distinguish genuine ancient scientific achievement from nationalist mythology by applying the same critical evidential standards to historical claims regardless of whether they support or challenge our own identity or worldview. We should examine primary texts, archaeological evidence, chronology and comparative historical scholarship, while distinguishing what is established from what is speculative or exaggerated. The same principle should also apply when religious or cultural texts make scientific claims: the claim should be evaluated according to the appropriate evidence rather than accepted simply because it supports our existing beliefs.
 
+---
+
 ## Was the Scientific Revolution actually a single revolution, or a long heterogeneous transformation ?
 
 ### My Answer. Long heterogeneous transformation.
 
 ### Refined Answer. I think it was a long and heterogeneous transformation rather than a single sudden revolution. It involved multiple thinkers, methods and developments over an extended period, including changes in observation, measurement, experimentation, mathematics, induction, deduction and scientific institutions. Galileo, Bacon, Descartes, Kepler and Newton contributed in different but interconnected ways. Therefore, “Scientific Revolution” is useful as a historical label, but it should not make us imagine that modern science appeared suddenly from one event or followed a single linear path.
+
+---
 
 ## What does Darwinian theory actually establish about the philosophical question of design ?
 
